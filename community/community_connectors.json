@@ -1009,5 +1009,13 @@
     "tags": ["v_1.0"],
     "description": "Get the latest Covid-19 data available from the Brazi.io API/ Obtenha os ultimos dados sobre Covid19 disponíveis no site do Brasil.io",
     "source_code": "https://github.com/JuracyAmerico/Covid-19"
+},  
+    {
+    "name": "Covid-19 - World and Italy data",
+    "url": "https://viki.visualitics.it/WDC/WDC-2.1.0/Covid_19/html/Covid_19-Italy-World.html",
+    "author": "Antonio D'Ascanio - Visualitics",
+    "github_username":,
+    "tags":,
+    "description": "Covid-19 World Data Retrieved from Johns Hopkins University, Italy detailed data retrieved from Protezione Civile Italiana repository ",
 }
 ]
